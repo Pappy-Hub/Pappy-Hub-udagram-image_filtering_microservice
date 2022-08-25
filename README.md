@@ -1,4 +1,4 @@
-# __ENDPOINT udagram-image_filtering_microservic__ http://image-filter-starter-code-dev2222222222222222222222222.us-east-1.elasticbeanstalk.com/
+# ENDPOINT udagram-image_filtering_microservice http://image-filter-starter-code-dev2222222222222222222222222.us-east-1.elasticbeanstalk.com/
 
 # Udagram Image Filtering Microservice
 
